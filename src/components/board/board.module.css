@@ -1,0 +1,18 @@
+.board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #f4eafc;
+    margin: 20% 10% 5% 10%;
+    font-size: 2vw;
+    white-space: nowrap;
+    transform: scale(1.2);
+    border: solid #49150f;
+    border-radius: 10px;
+}
+
+strong {
+    background-color: gold;
+    border-radius: 10px;
+}
